@@ -1,0 +1,2 @@
+discord.py==1.7.2
+genshinstats==1.3.11.2
